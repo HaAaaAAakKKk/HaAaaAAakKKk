@@ -1,9 +1,5 @@
-##  Interests : 🔐 Cyber Security
-
----
-
 ## 🔹 Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=c,python,js,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,linux,java,python,flask,js,html,css)](https://skillicons.dev)
 
 
 ---
