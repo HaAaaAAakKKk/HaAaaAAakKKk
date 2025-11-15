@@ -1,6 +1,5 @@
 ## 🔹 Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=c,linux,java,python,flask,js,html,css)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=c,linux,java,python,flask,html,css,js)](https://skillicons.dev)
 
 ---
 
