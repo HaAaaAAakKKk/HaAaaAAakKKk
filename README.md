@@ -20,6 +20,4 @@
 ---
 
 ## 📊 GitHub Metrics  
-<p align="center">
-  <img src="metrics.svg" width="90%">
-</p>
+<img src="metrics.svg" width="50%">
