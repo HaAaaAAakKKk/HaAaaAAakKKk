@@ -19,5 +19,5 @@
 
 ## 📊 GitHub Metrics  
 <p align="center">
-  <img src="metrics.svg" width="90%">
+  <img src=""metrics-hacker.svg" width="90%">
 </p>
