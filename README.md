@@ -14,9 +14,6 @@
 ## 🔐 Interests
 - Web Security (OWASP Top 10 · API Top 10)
 - Ethical Hacking / Capture The Flag
-- Backend (Flask) & Full-stack practice
-- Applied Cryptography basics  
-- Services that reduce information inequality
 
 ---
 
