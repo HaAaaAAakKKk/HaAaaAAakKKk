@@ -12,8 +12,10 @@
 ---
 
 ## 🔐 Interests
-- Web Security (OWASP Top 10 · API Top 10)
-- Ethical Hacking / Capture The Flag
+- Web Security
+- Network Security
+- Ethical Hacking 
+- Capture The Flag
 
 ---
 
