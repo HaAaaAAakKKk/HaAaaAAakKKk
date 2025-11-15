@@ -1,4 +1,4 @@
-name: Hacker Metrics
+name: Metrics-2
 
 on:
   workflow_dispatch:
